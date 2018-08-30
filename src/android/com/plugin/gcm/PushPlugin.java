@@ -51,6 +51,7 @@ public class PushPlugin extends CordovaPlugin {
   public static final String SOUND_DEFAULT = "default";
   public static final String VISIBILITY = "visibility";
   public static final String BADGE = "badge";
+  public static final String SOUND_RINGTONE = "ringtone";
 	private static final int PLAY_SERVICES_RESOLUTION_REQUEST = 9000;
 
 	private static CordovaWebView gWebView;
